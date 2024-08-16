@@ -1,7 +1,7 @@
 
 # **E-Commerce Sales Data Dashboard**
 
-This project contains a Power BI dashboard designed to track and analyze e-commerce sales data. The dashboard provides insights through various customized visualizations, enabling data-driven decisions.
+This repository contains a Power BI dashboard designed to track and analyze e-commerce sales data. The dashboard provides insights through various customized visualizations, enabling data-driven decisions.
 
 ## **Features**
 - **Interactive Dashboard**: Track and analyze sales data in real-time.
